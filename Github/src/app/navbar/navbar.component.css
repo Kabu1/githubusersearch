@@ -1,6 +1,6 @@
 .navbar-dark a {
     display: block;
-    color: dodgerblue;
+    color: whitesmoke;
     text-align: center;
     padding: 15px 17px;
     font-size: 20px;
@@ -11,5 +11,5 @@
 
 .navbar-dark{
     overflow: hidden;
-    background-color: rgb(107, 106, 165);
+    background-color: rgb(30, 30, 41);
 }
