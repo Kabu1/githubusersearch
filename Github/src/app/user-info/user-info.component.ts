@@ -11,7 +11,7 @@ import {Users} from '../users';
 })
 export class UserInfoComponent implements OnInit {
 
-  public searchMe = 'kangalah';
+  public searchMe = 'Kabu1';
   public githubUser: string;
 
 

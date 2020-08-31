@@ -16,7 +16,7 @@ export class RepositoriesComponent implements OnInit {
     public searchRepo: string;
    
 
-    searchRepos(kangalah) {
+    searchRepos(Kabu1) {
         this.searchRepo = '';
 
     }
