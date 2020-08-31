@@ -1,15 +1,15 @@
 input {
-    width: 100%;
+    width: 40%;
     padding: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid black;
     box-sizing: border-box;
     border-radius: 4px;
     margin-top: 6px;
     margin-bottom: 16px;
 }
 input[type=submit] {
-    background-color: magenta;
-    color: white;
+    background-color: red;
+    color: black;
     text-align:center;
 }
 button {
@@ -23,7 +23,7 @@ button {
 }
 form {
     margin-top: 3px;
-  background-color: fuchsia;
+  background-color: grey;
   padding: 20px;
   /* width:100vh;   */
 }
